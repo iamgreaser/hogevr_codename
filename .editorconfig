@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+
+[*.lua]
+indent_style = space
+indent_size = 3
+
+[*.{vert,frag}]
+indent_style = space
+indent_size = 3
+
+[*.{md,txt}]
+indent_style = space
+indent_size = 2
